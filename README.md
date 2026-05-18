@@ -119,11 +119,11 @@ without subscriptions, locked features, or bloated interfaces.
 
 # Screenshots
 
-| Home | Music Player |
+| Splash | Home |
 |------|------|
 | ![](1.jpg) | ![](2.jpg) |
 
-| Playlist System | Floating Experience |
+| Profile | PlayList |
 |------|------|
 | ![](3.jpg) | ![](4.jpg) |
 
